@@ -1,11 +1,7 @@
 """ Docstring:
 Description: grid class
 Author: 
-<<<<<<< HEAD
-Date: April 01, 2019
-=======
-Date:April 01, 2019
->>>>>>> 3012b631616d2cd5547e5090a11f584a5f172875
+Date: June 05, 2019
 """
 
 # module

@@ -18,9 +18,12 @@ class Mine():
         self.board = None
 
 # functions
+
+
 def mine_test():
     """ testing of mine """
     pass
+
 
 # main
 if __name__ == "__main__":
