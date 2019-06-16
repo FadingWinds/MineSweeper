@@ -1,0 +1,13 @@
+# ignore all
+*
+
+# unignore all folders
+!*/
+
+# unignore all code files
+!*.py
+
+# unigore other files
+!*.txt
+!.gitignore
+!*.md

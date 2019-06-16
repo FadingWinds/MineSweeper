@@ -10,6 +10,7 @@ from enum import Enum
 class game_type(Enum): 
     # The overall difficulty of the game (easy/normal/hard/etc.)
     # details
+    pass
 
 class point_type(Enum):
     NUMBER = 1 # ? Should 1-9 be listed in the enum?

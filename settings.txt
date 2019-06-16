@@ -1,0 +1,12 @@
+level: easy
+  x_lim: 10
+  y_lim: 10
+  mine_num: 10
+level: medium
+  x_lim: 16
+  y_lim: 16
+  mine_num: 40
+level: hard
+  x_lim: 30
+  y_lim: 25
+  mine_num: 100

@@ -10,9 +10,9 @@ Date: June 05, 2019
 # parameters
 
 
-# objects
+# classes
 class Grid():
-    def __init__(self, col, row, status):
+    def __init__( self, col, row, status):
         self.col = col
         self.row = row
         self.status = status

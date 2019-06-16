@@ -10,7 +10,7 @@ Date:April 01, 2019
 # parameters
 
 
-# objects
+# classes
 class Game():
     def __init__(self):
         """ game init """
@@ -34,9 +34,17 @@ class Game():
         """ visualize the game """
         pass
 
+
+
+
 # functions
+def test_init():
+    """ test initialization of a mine """
+    pass
+
 def test_game():
     """ test of the game """
+    test_init()
     pass
 
 # main

@@ -10,12 +10,12 @@ Date:April 01, 2019
 # parameters
 
 
-# objects
+# classes
 class Agent():
-    def __init__(self):
+    def __init__( self):
         pass
     
-    def act(self):
+    def act( self):
         """ agent action """
         pass
 
